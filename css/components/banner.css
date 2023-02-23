@@ -1,0 +1,18 @@
+.banner-img {
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("../../images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner-txt {
+  color: white;
+  font-size: 20px;
+  line-height: 0.4;
+  text-align: left;
+}
+
+.banner-txt p {
+  color: rgba(212, 212, 212, 0.914);
+  font-weight: lighter;
+}

@@ -1,0 +1,33 @@
+h2 {
+  margin-top: 50px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 16px;
+}
+
+.card {
+  width: 300px;
+  box-shadow: 0 0 4px rgba(0,0,0,0.2);
+  margin: 8px;
+  padding: 8px;
+  border-radius: 3px;
+}
+
+.card img {
+  display:inline-block;
+  width: 300px;
+  height: auto;
+  border-radius: 2px;
+}
+
+.card h3 {
+  padding: 4px;
+}
+
+.card p {
+  padding: 4px 32px;
+}
